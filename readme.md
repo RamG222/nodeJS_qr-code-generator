@@ -13,6 +13,10 @@ GitHub profile :- https://github.com/RamG222 Email :- shriramgupta8141@gmail.com
 Terminal Screenshot
 
 ![QR Code Generator](Terminal-ss.png)
+
+
 Output file in PNG format
+
+
 ![QR Code Output](qr_image.png)
 
